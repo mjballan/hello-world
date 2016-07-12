@@ -1,2 +1,3 @@
 # hello-world
-My first repository on GitHub.
+Repository Description: My first repository on GitHub.
+First Commit Edits: Here comes dat boi! O shit waddup.

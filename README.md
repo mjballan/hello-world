@@ -1,3 +1,2 @@
 # hello-world
-Repository Description: My first repository on GitHub.
-First Commit Edits: Here comes dat boi! O shit waddup.
+This text reflects an edit to the README.md file which was created while working through the Hello-World guide located at https://guides.github.com/activities/hello-world/. 
